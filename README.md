@@ -9,7 +9,7 @@
 - 3D Sobel operator performance with noise common in MRI: Rician, Gaussian, K Space Spike, Gibbs. Spectrum analysis on interactions between K Space Spike noise and Sobel operator
 
 ### 22/03/02
-- 3D Image gradient: (generalized) Sobel operator. Compare official implementation in SciPy.ndimage, OpenCV-python; Implement Sobel myself using SciPy and PyTorch with evaluation.
+- 3D Image gradient: (generalized) Sobel operator. Compare official implementation in SciPy.ndimage, OpenCV-python; Implement (seperable kernel) Sobel myself using SciPy and PyTorch with evaluation.
 
 ### 22/01/25 
 - Data augmentation for deep learning. Rotation, Translation, Blending, CutOut, CutMix, primarily based on torchvision
