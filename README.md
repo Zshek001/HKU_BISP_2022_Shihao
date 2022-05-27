@@ -1,7 +1,7 @@
 # MRI image processing
 
 ### 22/05/16 *(ongoing)*
-- Human age prediction using Brain MRI image, DenseNet121 with MONAI
+- Human age prediction using Brain MRI image, DenseNet with MONAI
 - Dataset: HCP unprocessed T1w & T2w
 
 ### 22/03/10 *(unfinished)*
