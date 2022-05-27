@@ -1,4 +1,4 @@
-# MRI image processing
+# Brain MRI image processing
 
 ### 22/05/16 *(ongoing)*
 - Human age prediction using Brain MRI image, DenseNet with MONAI
